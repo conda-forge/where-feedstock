@@ -11,7 +11,7 @@ source:
   sha256: 325ef3a492a26189a47819f7375bc146887d39edd36fce132e86514334803fb1
 
 build:
-  number: 0
+  number: 1
   noarch: python
   entry_points:
     - where = where.__main__:main
